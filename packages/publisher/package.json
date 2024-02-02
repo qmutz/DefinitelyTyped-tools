@@ -12,7 +12,7 @@
     "@definitelytyped/typescript-versions": "^0.0.56",
     "@definitelytyped/utils": "^0.0.56",
     "@octokit/rest": "^16.1.0",
-    "adal-node": "^0.1.22",
+    "adal-node": "^0.2.4",
     "applicationinsights": "^1.0.7",
     "azure-keyvault": "^3.0.4",
     "fs-extra": "4.0.0",
