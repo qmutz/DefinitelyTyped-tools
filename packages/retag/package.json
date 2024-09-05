@@ -21,7 +21,7 @@
     "@definitelytyped/definitions-parser": "^0.0.56",
     "@definitelytyped/typescript-versions": "^0.0.56",
     "@definitelytyped/utils": "^0.0.56",
-    "yargs": "^15.3.1"
+    "yargs": "^16.1.1"
   },
   "devDependencies": {
     "@types/node": "^10.17.21",
